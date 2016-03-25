@@ -1,6 +1,6 @@
 {
   "name": "ng2-bootstrap",
-  "version": "1.0.7.vp",
+  "version": "1.0.7.1",
   "description": "angular2 bootstrap components",
   "scripts": {
     "install:typings": "./node_modules/.bin/typings install",
